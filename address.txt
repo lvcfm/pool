@@ -1,0 +1,26 @@
+DOGE
+
+DQATcwVTcQX3ehj8GUzcMBtVqQix2n54a2
+
+stratum.aikapool.com:7915
+
+xlvcfm99.001
+
+123456
+
+cgminer --scrypt -I 13 -o stratum+tcp://stratum.aikapool.com:7915 -u xlvcfm99.001 -p 123456
+
+bfgminer --scrypt -o stratum+tcp://stratum.aikapool.com:7915 -u xlvcfm99.001 -p 123456
+
+minerd -a --scrypt -t 6 -s 4 -o stratum+tcp://stratum.aikapool.com:7915 -u xlvcfm99.001 -p 123456
+
+cudaminer -o stratum+tcp://stratum.aikapool.com:7915 -u xlvcfm99.001 -p 123456
+
+XMR
+
+4539b33fGCyB8iics4K72seD9sA56EdVrWTPxjkrikFrb9eFTe1KaQzacbn9KGzrGdVmMEc34v8Pri8Hi3m2wts2Jz66mGf
+
+RVN
+
+RLRPkGs4QDTW2TnzpgSLFEMYvVxgiDTHeN
+
